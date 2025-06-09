@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  Software Developer at Jasmin Infotech , Chennai.<br>👯 Open to collaborating with fellow developers.<br>🌱 Focused on mastering Full Stack Web Development.<br>💬  Feel free to ask me about React.js, Express.js, Node.js and SQL.<br>
+🔭  Software Developer at Jasmin Infotech , Chennai.<br>👯 Open to collaborating with fellow developers.<br>🌱 Full Stack Web Developer.<br>💬  Feel free to ask me about React.js, Express.js, Node.js and SQL.<br>
 
 
 ## 🌐 Socials:
