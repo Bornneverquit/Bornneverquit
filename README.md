@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  Software Developer at Private , Chennai.<br>👯 Open to collaborating with fellow developers.<br>🌱 Full Stack Developer.<br>💬  Feel free to ask me about React.js, Express.js, Node.js and SQL.<br>
+🔭  Software Developer at Zoho , Chennai.<br>👯 Open to collaborating with fellow developers.<br>🌱 Full Stack Developer.<br>💬  Feel free to ask me about React.js, Express.js, Node.js and SQL.<br>
 
 
 ## 🌐 Socials:
